@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<h1>フォームで色々便利に使う</h1>
+<h1>フォームで色々便利に使う/GitHubでテスト</h1>
     <form action="index2.php" method="post">
         <dl>
             <dt>名前：　</dt>
