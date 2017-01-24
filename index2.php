@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<h1>画面に文章を表示する</h1>
+<h1>フォームで色々便利に使う/GitHubでテスト</h1>
     <?php
     if (empty($_REQUEST['my_name'])) {
         print('<div style="color:#ff0000;">名前は必須項目です。</div><br />');
